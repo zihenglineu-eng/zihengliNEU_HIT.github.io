@@ -1,8 +1,8 @@
 ---
+layout: single
 title: "Research"
 permalink: /research/
 ---
 
-# Research
-
+# Research  
 Coming soon.
