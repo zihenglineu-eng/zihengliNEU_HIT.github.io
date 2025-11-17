@@ -14,7 +14,7 @@ Education
 
 * **Ph.D. Candidate**, Harbin Institute of Technology, Shenzhen, China  
   *2025 – present*  
-  School of XXX (e.g., Mechanical Engineering — replace with your exact school if needed).  
+  School of Intelligent Science and Engineering.  
   Research focus: data-efficient battery health prognosis and battery management algorithms.
 
 * **M.Eng., School of Mechanical Engineering and Automation**, Northeastern University, Shenyang, China  
