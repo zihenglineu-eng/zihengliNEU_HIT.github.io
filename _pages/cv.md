@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Ph.D. Candidate**, Harbin Institute of Technology, Shenzhen, China  
+  *2025 – present*  
+  School of XXX (e.g., Mechanical Engineering — replace with your exact school if needed).  
+  Research focus: data-efficient battery health prognosis and battery management algorithms.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **M.Eng., School of Mechanical Engineering and Automation**, Northeastern University, Shenyang, China  
+  *Graduated 2024*  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **B.Eng., School of Mechanical Engineering and Automation**, Northeastern University, Shenyang, China  
+  *Graduated 2020*  
 
-Publications
+
+Professional Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+* **Senior Battery Algorithm Engineer**, BYD Company Limited, Shenzhen, China  
+  *2024 – 2025*  
+  - Mainly responsible for developing the **third-generation anti-jump State-of-Charge (SOC) estimation algorithm** for production battery management systems.  
+  - Participated in algorithm design, validation, and deployment under real-vehicle and bench test conditions.  
+
+
+<!-- You can add more sections later, for example:
+
+Honors and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* To be updated.
+
+-->
+
