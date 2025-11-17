@@ -13,9 +13,9 @@ title                    : "Ziheng Li / Battery Research"
 title_separator          : "-"
 name                     : &name "Ziheng Li"
 description              : &description "Ziheng Li's academic homepage on battery health prognosis"
-url                      : https://zihenglineu-eng.github.io
+url                      : https://zihengliNEU_HIT.github.io
 baseurl                  : ""
-repository               : "zihenglineu-eng/zihenglineu-eng.github.io"
+repository               : "zihengliNEU_HIT/zihengliNEU_HIT.github.io"
 
 # Site Author
 author:
